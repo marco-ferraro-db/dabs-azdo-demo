@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: dabdemo
+Version: 0.0.1
+Summary: Generic Description
+Home-page: https://databricks.com
+Author: marco.ferraro
+Author-email: marco.ferraro@databricks.com
+Requires-Dist: setuptools
